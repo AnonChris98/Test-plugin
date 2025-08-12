@@ -1,0 +1,14 @@
+{
+  "name": "Test Slash",
+  "description": "Fügt /test hinzu und zeigt ein Test-Popup.",
+  "authors": [
+    {
+      "name": "DeinName",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
